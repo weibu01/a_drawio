@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T08:49:40.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.20" etag="2aYcdoK-t_msDp1Zi1gq" type="github"><diagram name="第 1 页" id="zhSJCforY8B-MtIuW9Q7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-17T09:17:55.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YN3Kmi8f6G6nkUlPx_un" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="zhSJCforY8B-MtIuW9Q7">
+    <mxGraphModel dx="1195" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="axphInQ6ILh3uUqZy5pT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="212" y="106" width="90" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="axphInQ6ILh3uUqZy5pT-4" value="原变量a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="127" y="102.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axphInQ6ILh3uUqZy5pT-5" value="引用变量b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="129" y="172" width="58" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axphInQ6ILh3uUqZy5pT-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198" y="181" as="sourcePoint" />
+            <mxPoint x="248" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axphInQ6ILh3uUqZy5pT-8" value="变量a地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="105" width="85" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="axphInQ6ILh3uUqZy5pT-9" value="指针变量:*p" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="106" width="88" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="axphInQ6ILh3uUqZy5pT-10" value="*p = &amp;amp;a;时，指针变量本身有一个地址，内存空间中存放的是指向的变量地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="361" y="144" width="321" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="axphInQ6ILh3uUqZy5pT-11" value="引用：变量的另一个别名，没有开辟新内存空间" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="123" y="210" width="284" height="34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
