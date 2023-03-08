@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T08:53:54.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FDzB8oqzYw6h26_TqRKj" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T09:09:41.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="45qMceIJgWUTE1p67Lox" version="21.0.2" type="github">
   <diagram name="第 1 页" id="aa3Chiq9ENHAOAG2ORT3">
-    <mxGraphModel dx="907" dy="330" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,6 +219,12 @@
         </mxCell>
         <mxCell id="rzs6H-L1dgSb0eeNP4hh-76" value="&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 13px;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;超时等待状态？&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; text-align: start; background-color: rgb(255, 255, 255); font-size: 13px;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#777777&quot;&gt;客户端最后一个ACK可能会丢失，服务端不能正常进入CLOSED状态。服务端：重传请求释放的报文，而此时客户端如果已经关闭了，就收不到服务端的请求，服务端&lt;/font&gt;&lt;span style=&quot;color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px;&quot;&gt;不能正常关闭。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; text-align: start; background-color: rgb(255, 255, 255); font-size: 13px;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span style=&quot;color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px;&quot;&gt;如果客户端还在等待时间内，就会收到B服务端请求，并进行应答，这样服务端就可以正常进入CLOSED状态了&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="174" y="1010" width="679" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-77" value="&lt;div&gt;三次挥手：将中间两次挥手合并。这样是有问题的。&lt;/div&gt;&lt;div&gt;服务器收到对方的FIN包报文时，仅仅表示对方不再发送数据了但是还能接收数据，服务端可能还有数据没发完&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;马上关闭服务端发送的数据会出问题&amp;nbsp; （全双工通信）&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1147" width="779.5" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-78" value="只有三次挥手？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ABFF9E;" vertex="1" parent="1">
+          <mxGeometry x="149.5" y="1126" width="99" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
