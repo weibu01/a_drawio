@@ -1,230 +1,230 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T09:09:41.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="45qMceIJgWUTE1p67Lox" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T09:10:45.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cq39SoKX0mZN1PYoB3wL" version="21.0.2" type="github">
   <diagram name="第 1 页" id="aa3Chiq9ENHAOAG2ORT3">
-    <mxGraphModel dx="1280" dy="466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="396" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#1E5A96;fontSize=13;" edge="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#1E5A96;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="428" y="120" as="sourcePoint" />
             <mxPoint x="547" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-2" value="closed 状态" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-2" value="closed 状态" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="314" y="100" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-3" value="客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-3" value="客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="331.5" y="61" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-4" value="服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-4" value="服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="591" y="61" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-5" value="listen()" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-5" value="listen()" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="577" y="100" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-6" value="SYN包&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-6" value="SYN包&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="444" y="98" width="89" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-7" value="SYN_SEND" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-7" value="SYN_SEND" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="314" y="189" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-8" value="ESTABLISHED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-8" value="ESTABLISHED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="314" y="272" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-9" value="SYN_RCV" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-9" value="SYN_RCV" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="573.5" y="189" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-10" value="ESTABLISHED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-10" value="ESTABLISHED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="573.5" y="272" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-11" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;strokeWidth=4;strokeColor=#1e5a96;fontSize=13;" edge="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-11" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;strokeWidth=4;strokeColor=#1e5a96;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="426" y="198" as="sourcePoint" />
             <mxPoint x="547" y="142" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-12" value="SYN&amp;nbsp; + ACK包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=336;fontSize=13;" vertex="1" connectable="0" parent="rzs6H-L1dgSb0eeNP4hh-11">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-12" value="SYN&amp;nbsp; + ACK包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=336;fontSize=13;" parent="rzs6H-L1dgSb0eeNP4hh-11" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-7" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#1E5A96;fontSize=13;" edge="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#1E5A96;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="432" y="209" as="sourcePoint" />
             <mxPoint x="551" y="209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-14" value="ACK 包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-14" value="ACK 包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="466" y="189" width="50" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#1E5A96;fontSize=13;" edge="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#1E5A96;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="421" y="699" as="sourcePoint" />
             <mxPoint x="540" y="699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-16" value="ESTABLISHED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-16" value="ESTABLISHED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="307" y="679" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-17" value="客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-17" value="客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="322.5" y="639" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-18" value="服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-18" value="服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="582" y="639" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-19" value="ESTABLISHED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-19" value="ESTABLISHED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="570" y="679" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-20" value="FIN 包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-20" value="FIN 包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="453" y="674" width="50" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-21" value="FIN - WAIT - 1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-21" value="FIN - WAIT - 1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="307" y="754" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-22" value="FIN - WAIT - 2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-22" value="FIN - WAIT - 2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="307" y="827" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-23" value="CLOSE - WAIT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-23" value="CLOSE - WAIT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="569.5" y="745" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-24" value="LAST - ACK" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-24" value="LAST - ACK" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="566.5" y="827" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-25" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;strokeWidth=4;strokeColor=#1e5a96;fontSize=13;" edge="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-25" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;strokeWidth=4;strokeColor=#1e5a96;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="419" y="777" as="sourcePoint" />
             <mxPoint x="540" y="721" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-26" value="ACK 包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=336;fontSize=13;" vertex="1" connectable="0" parent="rzs6H-L1dgSb0eeNP4hh-25">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-26" value="ACK 包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=336;fontSize=13;" parent="rzs6H-L1dgSb0eeNP4hh-25" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-7" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#1E5A96;fontSize=13;" edge="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#1E5A96;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="423" y="847" as="sourcePoint" />
             <mxPoint x="542" y="847" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-28" value="ACK 包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-28" value="ACK 包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="457" y="827" width="50" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-29" value="TIME - WAIT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-29" value="TIME - WAIT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="307" y="886" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-30" value="CLOSED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-30" value="CLOSED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#99FFFF;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="305.5" y="943" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-31" value="CLOSED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-31" value="CLOSED" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FFD966;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="566.5" y="891" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-32" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;strokeWidth=4;strokeColor=#1e5a96;fontSize=13;" edge="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-32" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;strokeWidth=4;strokeColor=#1e5a96;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="428" y="823" as="sourcePoint" />
             <mxPoint x="557" y="769" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-33" value="FIN 包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=336;fontSize=13;" vertex="1" connectable="0" parent="rzs6H-L1dgSb0eeNP4hh-32">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-33" value="FIN 包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=336;fontSize=13;" parent="rzs6H-L1dgSb0eeNP4hh-32" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-7" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-35" value="SYN = 1，表示进行一个连接请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-35" value="SYN = 1，表示进行一个连接请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="102" y="99" width="194" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-36" value="ACK为1：确认有效&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-36" value="ACK为1：确认有效&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="150" y="159" width="132" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-41" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;三次握手：目的，建立双向连接&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1E5A96;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-41" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;三次握手：目的，建立双向连接&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1E5A96;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="32" y="22" width="275" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-43" value="&lt;span style=&quot;color: rgb(30, 90, 150); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;四次挥手：目的，关闭双向连接&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-43" value="&lt;span style=&quot;color: rgb(30, 90, 150); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;四次挥手：目的，关闭双向连接&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="59.5" y="599" width="280" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-47" value="终止位 FIN = 1 (表示该报文是一个连接释放请求)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-47" value="终止位 FIN = 1 (表示该报文是一个连接释放请求)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="82" y="673.5" width="186" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-48" value="终止等待1状态：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-48" value="终止等待1状态：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="178" y="760" width="95" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-49" value="终止等待2状态：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-49" value="终止等待2状态：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="179" y="833" width="95" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-50" value="最后确认状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-50" value="最后确认状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="656" y="811" width="97" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-51" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;关闭等待状态&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-51" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;关闭等待状态&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="670" y="752" width="101" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="rzs6H-L1dgSb0eeNP4hh-50" target="rzs6H-L1dgSb0eeNP4hh-50">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="rzs6H-L1dgSb0eeNP4hh-50" target="rzs6H-L1dgSb0eeNP4hh-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-53" value="超时等待状态：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-53" value="超时等待状态：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="184" y="892" width="93" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-56" value="第一次挥手：客户端向服务端发送一个释放连接的 FIN包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-56" value="第一次挥手：客户端向服务端发送一个释放连接的 FIN包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="741" y="682.5" width="345" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-57" value="第二次挥手：服务端向客户端发送 ACK确认包&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-57" value="第二次挥手：服务端向客户端发送 ACK确认包&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="749" y="729" width="276" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-58" value="（客户端 -&amp;gt; 终止等待1状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-58" value="（客户端 -&amp;gt; 终止等待1状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="801" y="705" width="173" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-61" value="（客户端 -&amp;gt; 终止等待2状态&amp;nbsp; &amp;nbsp; 服务端 -&amp;gt; 关闭等待状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-61" value="（客户端 -&amp;gt; 终止等待2状态&amp;nbsp; &amp;nbsp; 服务端 -&amp;gt; 关闭等待状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="801" y="754" width="323" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-62" value="第三次挥手：服务端没有要发送的数据时，给客户端发送一个释放连接的 FIN包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-62" value="第三次挥手：服务端没有要发送的数据时，给客户端发送一个释放连接的 FIN包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="747" y="780" width="466" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-63" value="（发完后服务端 -&amp;gt;&amp;nbsp; 最后确认状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-63" value="（发完后服务端 -&amp;gt;&amp;nbsp; 最后确认状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="802" y="807" width="211" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-64" value="第四次挥手：客户端给服务端发送一个 ACK 确认包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-64" value="第四次挥手：客户端给服务端发送一个 ACK 确认包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="749" y="843" width="306" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-65" value="（发完后客户端 -&amp;gt; 超时等待状态&amp;nbsp; 服务端收到后 -&amp;gt; closed状态（关闭连接 释放资源）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-65" value="（发完后客户端 -&amp;gt; 超时等待状态&amp;nbsp; 服务端收到后 -&amp;gt; closed状态（关闭连接 释放资源）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="803" y="870.5" width="494" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-66" value="第一次握手：客户端给服务端发送一个请求连接的 SYN 包。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-66" value="第一次握手：客户端给服务端发送一个请求连接的 SYN 包。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="730" y="70" width="352" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-67" value="（发送完后：客户端 -&amp;gt; SYN-SEND状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-67" value="（发送完后：客户端 -&amp;gt; SYN-SEND状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="796" y="93" width="254" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-68" value="第二次握手：服务端给客户端发送一个SYN + ACK 包。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-68" value="第二次握手：服务端给客户端发送一个SYN + ACK 包。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="719" y="131" width="343" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-69" value="（发送完后：服务端 -&amp;gt; SYN-RECV状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-69" value="（发送完后：服务端 -&amp;gt; SYN-RECV状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="796" y="154" width="259" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-70" value="第三次握手：客户端给服务端发送一个ACK 确认包。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-70" value="第三次握手：客户端给服务端发送一个ACK 确认包。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="726" y="193" width="322" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-71" value="（客户端、服务端&amp;nbsp; -&amp;gt; ESTABLISHED状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-71" value="（客户端、服务端&amp;nbsp; -&amp;gt; ESTABLISHED状态）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="799" y="217" width="270" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-72" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 4; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 13px; display: inline !important;&quot;&gt;只进行一次握手?&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3399FF;labelBackgroundColor=#ABFF9E;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-72" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 4; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 13px; display: inline !important;&quot;&gt;只进行一次握手?&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3399FF;labelBackgroundColor=#ABFF9E;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="129" y="364" width="135" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-73" value="客户端发送连接请求后，没收到服务端回应，没法判断连接是否成功。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-73" value="客户端发送连接请求后，没收到服务端回应，没法判断连接是否成功。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="261.5" y="359" width="400" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-74" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;只进行两次握手？&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3399FF;labelBackgroundColor=#ABFF9E;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-74" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;只进行两次握手？&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3399FF;labelBackgroundColor=#ABFF9E;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="129" y="420" width="135" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-75" value="&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;客户端发送连接请求后，等待服务器端应答。&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative; color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-size: 13px;&quot; class=&quot;md-plain&quot;&gt;中途可能因为网络问题导致客户端 SYN 包迟迟没发到服务端。客户端超时重发并和服务端建立好连接。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px 0px; position: relative; color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-size: 13px;&quot; class=&quot;md-plain&quot;&gt;过一段时间，之前发的 SYN 包服务端收到了，服务端会认为这是一个新连接，又分配一个连接资源，造成服务器连接资源的浪费&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-75" value="&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;客户端发送连接请求后，等待服务器端应答。&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative; color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-size: 13px;&quot; class=&quot;md-plain&quot;&gt;中途可能因为网络问题导致客户端 SYN 包迟迟没发到服务端。客户端超时重发并和服务端建立好连接。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px 0px; position: relative; color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-size: 13px;&quot; class=&quot;md-plain&quot;&gt;过一段时间，之前发的 SYN 包服务端收到了，服务端会认为这是一个新连接，又分配一个连接资源，造成服务器连接资源的浪费&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="264" y="420" width="745" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-76" value="&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 13px;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;超时等待状态？&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; text-align: start; background-color: rgb(255, 255, 255); font-size: 13px;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#777777&quot;&gt;客户端最后一个ACK可能会丢失，服务端不能正常进入CLOSED状态。服务端：重传请求释放的报文，而此时客户端如果已经关闭了，就收不到服务端的请求，服务端&lt;/font&gt;&lt;span style=&quot;color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px;&quot;&gt;不能正常关闭。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; text-align: start; background-color: rgb(255, 255, 255); font-size: 13px;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span style=&quot;color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px;&quot;&gt;如果客户端还在等待时间内，就会收到B服务端请求，并进行应答，这样服务端就可以正常进入CLOSED状态了&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-76" value="&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 13px;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;超时等待状态？&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; text-align: start; background-color: rgb(255, 255, 255); font-size: 13px;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#777777&quot;&gt;客户端最后一个ACK可能会丢失，服务端不能正常进入CLOSED状态。服务端：重传请求释放的报文，而此时客户端如果已经关闭了，就收不到服务端的请求，服务端&lt;/font&gt;&lt;span style=&quot;color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px;&quot;&gt;不能正常关闭。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0px 0px 0.8em; position: relative; text-align: start; background-color: rgb(255, 255, 255); font-size: 13px;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span style=&quot;color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px;&quot;&gt;如果客户端还在等待时间内，就会收到B服务端请求，并进行应答，这样服务端就可以正常进入CLOSED状态了&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="174" y="1010" width="679" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-77" value="&lt;div&gt;三次挥手：将中间两次挥手合并。这样是有问题的。&lt;/div&gt;&lt;div&gt;服务器收到对方的FIN包报文时，仅仅表示对方不再发送数据了但是还能接收数据，服务端可能还有数据没发完&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;马上关闭服务端发送的数据会出问题&amp;nbsp; （全双工通信）&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1147" width="779.5" height="69" as="geometry" />
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-77" value="&lt;div&gt;三次挥手：将中间两次挥手合并。这样是有问题的。&lt;/div&gt;&lt;div&gt;服务器收到对方的FIN包报文时，仅仅表示对方不再发送数据了但是还能接收数据，服务端可能还有数据没发完&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;马上关闭服务端发送的数据会出问题&amp;nbsp; （全双工通信）&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="168" y="1147" width="779.5" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-78" value="只有三次挥手？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ABFF9E;" vertex="1" parent="1">
-          <mxGeometry x="149.5" y="1126" width="99" height="25" as="geometry" />
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-78" value="只进行三次挥手？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ABFF9E;" parent="1" vertex="1">
+          <mxGeometry x="168.5" y="1123" width="99" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
