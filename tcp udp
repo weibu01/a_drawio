@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T09:11:28.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_DZfSgdvrybS44bL5r_W" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T11:22:35.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FZlspL_cGtZOrOq-ADvn" version="21.0.2" type="github">
   <diagram name="第 1 页" id="aa3Chiq9ENHAOAG2ORT3">
     <mxGraphModel dx="1120" dy="396" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
         <mxCell id="rzs6H-L1dgSb0eeNP4hh-53" value="超时等待状态：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="184" y="892" width="93" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="rzs6H-L1dgSb0eeNP4hh-56" value="第一次挥手：客户端向服务端发送一个释放连接的 FIN包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="rzs6H-L1dgSb0eeNP4hh-56" value="第一次挥手：客户端向服务端发送一个释放连接的 FIN 包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="741" y="682.5" width="345" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="rzs6H-L1dgSb0eeNP4hh-57" value="第二次挥手：服务端向客户端发送 ACK确认包&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
