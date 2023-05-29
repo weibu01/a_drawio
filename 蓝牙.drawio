@@ -1,35 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T12:38:03.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="o7mYNtRPXxGZn4pD8Bfq" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T08:15:10.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gV9PeVqAOWeFxq6RtNOb" version="21.3.4" type="github">
   <diagram name="第 1 页" id="sGlackUi6KYwCeTNS7EY">
     <mxGraphModel dx="880" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iPLlLyX5kpa19r9xOIcc-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;nxapp&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="658" y="264" width="87" height="29" as="geometry" />
+        <mxCell id="iPLlLyX5kpa19r9xOIcc-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;nxapp&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="627" y="229" width="87" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="iPLlLyX5kpa19r9xOIcc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iPLlLyX5kpa19r9xOIcc-3" target="iPLlLyX5kpa19r9xOIcc-9">
+        <mxCell id="w1RB_o_CphHrf7vYMLM9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iPLlLyX5kpa19r9xOIcc-3" target="w1RB_o_CphHrf7vYMLM9-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iPLlLyX5kpa19r9xOIcc-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74" y="151" width="369" height="229" as="geometry" />
+        <mxCell id="iPLlLyX5kpa19r9xOIcc-3" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="104" y="188.5" width="323" height="116.5" as="geometry" />
         </mxCell>
-        <mxCell id="iPLlLyX5kpa19r9xOIcc-4" value="蓝牙程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="228.5" y="107" width="60" height="30" as="geometry" />
+        <mxCell id="iPLlLyX5kpa19r9xOIcc-4" value="蓝牙程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="137" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iPLlLyX5kpa19r9xOIcc-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="iPLlLyX5kpa19r9xOIcc-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="475" y="276" as="sourcePoint" />
-            <mxPoint x="651" y="279" as="targetPoint" />
+            <mxPoint x="444" y="241" as="sourcePoint" />
+            <mxPoint x="620" y="244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iPLlLyX5kpa19r9xOIcc-8" value="udp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532" y="241" width="60" height="30" as="geometry" />
+        <mxCell id="iPLlLyX5kpa19r9xOIcc-8" value="udp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="501" y="206" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iPLlLyX5kpa19r9xOIcc-9" value="手机app" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="198.5" y="477" width="120" height="80" as="geometry" />
+        <mxCell id="iPLlLyX5kpa19r9xOIcc-9" value="手机app" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="205.5" y="502" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iPLlLyX5kpa19r9xOIcc-11" value="蓝牙通信：发送检测到的数据到手机APP&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="276" y="409" width="246" height="33" as="geometry" />
+        <mxCell id="iPLlLyX5kpa19r9xOIcc-11" value="蓝牙通信：发送检测到的数据到手机APP&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="413" width="246" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="w1RB_o_CphHrf7vYMLM9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="w1RB_o_CphHrf7vYMLM9-3" target="iPLlLyX5kpa19r9xOIcc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1RB_o_CphHrf7vYMLM9-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;升蓝牙模块&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205.5" y="372" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1RB_o_CphHrf7vYMLM9-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;串口通信&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="274" y="327" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w1RB_o_CphHrf7vYMLM9-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;蓝牙通信&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="278" y="458" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
