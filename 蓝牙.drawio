@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T13:09:40.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eSkKivz1YS92EiYbnIZQ" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T13:34:36.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zqKtWwwV77QDS89HBqZD" version="21.3.5" type="github">
   <diagram name="第 1 页" id="sGlackUi6KYwCeTNS7EY">
     <mxGraphModel dx="880" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="900" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="j2tQ5hEH6nqEVM4yC1A1-12" value="返回AT指令执行结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="303" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="j2tQ5hEH6nqEVM4yC1A1-13" value="数据透传：蓝牙体温枪" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="342" width="156" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
