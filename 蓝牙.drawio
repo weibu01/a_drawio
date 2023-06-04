@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T12:06:10.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CLdIz01bRCoJPb2z96j7" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T12:23:16.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ukkCu6KD1nIWb_PkBr3N" version="21.3.7" type="github">
   <diagram name="第 1 页" id="sGlackUi6KYwCeTNS7EY">
     <mxGraphModel dx="880" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="iPLlLyX5kpa19r9xOIcc-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;UDP：发送命令 / 检测的参数数据&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="403" y="63" width="194" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="iPLlLyX5kpa19r9xOIcc-9" value="手机app" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iPLlLyX5kpa19r9xOIcc-9" value="iPad / 手机app" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="199.75" y="354" width="139.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="w1RB_o_CphHrf7vYMLM9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="w1RB_o_CphHrf7vYMLM9-3" target="iPLlLyX5kpa19r9xOIcc-9" edge="1">
